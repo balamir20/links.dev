@@ -1,3 +1,7 @@
+.icon-apple {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/apple.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/apple.svg');
+}
 .icon-book {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/book.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/book.svg');
@@ -33,6 +37,14 @@
 .icon-diamond {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/diamond.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/diamond.svg');
+}
+.icon-discord {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/discord.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/discord.svg');
+}
+.icon-facebook {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/facebook.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/facebook.svg');
 }
 .icon-file-check {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/file-check.svg');
@@ -77,6 +89,10 @@
 .icon-github {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/github.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/github.svg');
+}
+.icon-gitlab {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/gitlab.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/gitlab.svg');
 }
 .icon-globe {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/globe.svg');
@@ -150,13 +166,25 @@
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/pause.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/pause.svg');
 }
+.icon-paypal {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/paypal.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/paypal.svg');
+}
 .icon-phone {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/phone.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/phone.svg');
 }
+.icon-pinterest {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/pinterest.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/pinterest.svg');
+}
 .icon-play {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/play.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/play.svg');
+}
+.icon-reddit {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/reddit.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/reddit.svg');
 }
 .icon-repeat {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/repeat.svg');
@@ -170,6 +198,10 @@
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/search.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/search.svg');
 }
+.icon-share {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/share.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/share.svg');
+}
 .icon-shopping-cart {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/shopping-cart.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/shopping-cart.svg');
@@ -182,6 +214,14 @@
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/skip-forward.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/skip-forward.svg');
 }
+.icon-skype {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/skype.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/skype.svg');
+}
+.icon-slack {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/slack.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/slack.svg');
+}
 .icon-sort-ascending {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/sort-ascending.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/sort-ascending.svg');
@@ -189,6 +229,10 @@
 .icon-sort-descending {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/sort-descending.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/sort-descending.svg');
+}
+.icon-soundcloud {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/soundcloud.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/soundcloud.svg');
 }
 .icon-spotify {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/spotify.svg');
@@ -217,6 +261,10 @@
 .icon-triangle {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/triangle.svg');
   mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/triangle.svg');
+}
+.icon-twitch {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/twitch.svg');
+  mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/twitch.svg');
 }
 .icon-twitter {
   -webkit-mask-image: url('https://raw.githubusercontent.com/fatih-yavuz/links.dev/main/user-page/icons/twitter.svg');

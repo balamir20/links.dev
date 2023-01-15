@@ -1,4 +1,5 @@
 icons:
+  - apple
   - book
   - briefcase
   - calendar
@@ -8,6 +9,8 @@ icons:
   - clock
   - crop
   - diamond
+  - discord
+  - facebook
   - file-check
   - file-minus
   - file-plus
@@ -19,6 +22,7 @@ icons:
   - flip-vertical
   - folder
   - github
+  - gitlab
   - globe
   - grid
   - heart
@@ -37,16 +41,23 @@ icons:
   - notebook
   - octagon
   - pause
+  - paypal
   - phone
+  - pinterest
   - play
+  - reddit
   - repeat
   - rotate
   - search
+  - share
   - shopping-cart
   - skip-back
   - skip-forward
+  - skype
+  - slack
   - sort-ascending
   - sort-descending
+  - soundcloud
   - spotify
   - square
   - star
@@ -54,6 +65,7 @@ icons:
   - table
   - tiktok
   - triangle
+  - twitch
   - twitter
   - user-check
   - user-minus
